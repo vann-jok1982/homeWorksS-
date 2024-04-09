@@ -1,0 +1,15 @@
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\home2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\home2.AssemblyInfoInputs.cache
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\home2.AssemblyInfo.cs
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\home2.csproj.CoreCompileInputs.cache
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\home2.sourcelink.json
+D:\sem04.04.24\homeworks\home2\bin\Debug\net8.0\home2.exe
+D:\sem04.04.24\homeworks\home2\bin\Debug\net8.0\home2.deps.json
+D:\sem04.04.24\homeworks\home2\bin\Debug\net8.0\home2.runtimeconfig.json
+D:\sem04.04.24\homeworks\home2\bin\Debug\net8.0\home2.dll
+D:\sem04.04.24\homeworks\home2\bin\Debug\net8.0\home2.pdb
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\home2.dll
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\refint\home2.dll
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\home2.pdb
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\home2.genruntimeconfig.cache
+D:\sem04.04.24\homeworks\home2\obj\Debug\net8.0\ref\home2.dll
